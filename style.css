@@ -55,3 +55,17 @@
     background-color: rgb(87, 87, 87);
     color: lightcyan;
   }
+  #cn{
+     
+    height: 800px;
+ 
+  }
+  .carousel-inner > .item > img{ margin:auto; }
+
+  .carousel img {
+
+    width: 100%;
+
+    height: 100%;
+
+}
